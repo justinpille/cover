@@ -9,7 +9,7 @@ Currently I work in a cross-functional team, and often I'm the only developer wo
 There are certainly other programmers in the company, and we get together once a month to share knowledge. In the last year I've given three presentations to that group: 
 
 1. A high-level breakdown of Webpack
-2. A system I was working on for testing views in isolation (before I knew about storybook.js.org)
+2. A system I was working on for testing views in isolation (before I knew about *storybook.js.org*)
 3. A course that we built inside of Excel, using VBA macros.
 
 I have a lot of experience with React, and one thing I like about it is that you spend most of your time writing plain old JavaScript. I consider my time at work to be an investment in my career, and it's always a better investment to stay close to the standards.
