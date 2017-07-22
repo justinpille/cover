@@ -1,6 +1,6 @@
-Hi Brian, I want to tell you a little about myself.
+I want to tell you a little about myself.
 
-I've spent the last 5 years working in an agency setting, building training programs for other companies. It can be less-than-rewarding, because once the project is shipped I never hear anything about it again (unless something goes wrong). I'm intruiged by the opportunity to build in-house tools.
+I've spent the last 5 years working in consulting, building training programs for other companies. It can be less-than-rewarding, because once the project is shipped I never hear anything about it again (unless something goes wrong). I'm intruiged by the opportunity to build in-house tools.
 
 In college I studied architecture. That's one reason I'm more aware of the user than most of my peers. It's easy to forget, but buildings have users too. That has served me well in my current role, because I tend to recognize UX issues and opportunities as I'm working, and I can work with designers to make course corrections.
 
